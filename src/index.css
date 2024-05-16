@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+#sidebar p {
+  @apply text-xs text-slate-500;
+}
+
+.navbar li{
+    @apply hover:text-softRed
+}
