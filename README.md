@@ -23,10 +23,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/s1.png)
-![](./screenshots/s2.png)
-![](./screenshots/s3.png)
-![](./screenshots/s4.png)
+![Home Page](./screenshots/s1.png)
+![Headlines](./screenshots/s2.png)
+![Mobile menu](./screenshots/s3.png)
+![Mobile view](./screenshots/s4.png)
 
 ### Links
 
